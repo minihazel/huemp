@@ -35,4 +35,5 @@ Page with common questions and help ![FAQ page](https://imgur.com/J9C40AD.png)
 ## Links and credits
 Main developer and creator <a href="https://www.gta5-mods.com/users/Remexy_">hazelify</a>.\
 My Steam page is <a href="https://steamcommunity.com/id/de_cyanide/">Zeyr0n</a>.\
+If you wish to help a hazel out, here's my <a href="https://www.paypal.me/whitehazel">donation</a> page.\
 If you're looking for my Discord server, join it <a href="https://discord.gg/U2PMT6b">here</a>.
