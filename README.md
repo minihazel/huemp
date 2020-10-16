@@ -14,7 +14,7 @@ Here's a mini-guide for how to install FiveM's server files to make my app work 
 
 # Huemp
 Refreshed and revamped update for my tool **FXServer Creator** which has been renamed to **huemp**.\
-Refer to <a href="https://www.gta5-mods.com/tools/fxserver-fivem-server-creator">gta5-mods.com</a> for the original page.\
+Refer to <a href="https://www.gta5-mods.com/tools/fxserver-fivem-server-creator">gta5-mods.com</a> for the original page.
 
 Huemp is my new and updated version of the old **FXServer Creator** tool which you can find using the link above. Below you'll find comparisons between old and new, as well as changes in how the app works and what has been added. Do note that there are still changes planned that will take some time, which is why I'll be releasing the current stage first.\
 
